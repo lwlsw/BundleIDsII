@@ -1,0 +1,10 @@
+Package: com.wavelink.bundleidsii
+Name: BundleIDsII
+Depends: com.spark.libsparkapplist
+Conflicts: com.td.bundleidsxi, com.wavelink.bundleidsxi
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: App to see installed app bundle IDs.
+Maintainer: TD
+Author: TD
+Section: Utilities
